@@ -21,7 +21,7 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Interactive Rating Component](https://davirockkk.github.io/interactive-rating-component/)
 
 ### Built with
 
